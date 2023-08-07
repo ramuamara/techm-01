@@ -1,0 +1,5 @@
+az ad sp create-for-rbac --name myServicePrincipalName\ --role="Contributor" --scopes="/subscriptions/09f0277d-5b65-4318-abe0-72b0e745d6fe"
+
+
+
+
